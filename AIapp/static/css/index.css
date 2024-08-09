@@ -277,7 +277,7 @@ button:hover {
 
 /* Styles for Note and About sections */
 .note-section, .about-section {
-    position: absolute;
+    position: fixed;
     bottom: 20px;
     font-size: 14px;
     padding: 10px;
